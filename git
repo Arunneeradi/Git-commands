@@ -1,0 +1,138 @@
+GIT COMMANDS
+We divide Git into high level ("porcelain") commands and low level ("plumbing") commands.
+
+High-level commands (porcelain)
+We separate the porcelain commands into the main commands and some ancillary user utilities.
+
+Main porcelain commands
+git-add[1]
+Add file contents to the index
+
+git-am[1]
+Apply a series of patches from a mailbox
+
+git-archive[1]
+Create an archive of files from a named tree
+
+git-bisect[1]
+Use binary search to find the commit that introduced a bug
+
+git-branch[1]
+List, create, or delete branches
+
+git-bundle[1]
+Move objects and refs by archive
+
+git-checkout[1]
+Switch branches or restore working tree files
+
+git-cherry-pick[1]
+Apply the changes introduced by some existing commits
+
+git-citool[1]
+Graphical alternative to git-commit
+
+git-clean[1]
+Remove untracked files from the working tree
+
+git-clone[1]
+Clone a repository into a new directory
+
+git-commit[1]
+Record changes to the repository
+
+git-describe[1]
+Give an object a human readable name based on an available ref
+
+git-diff[1]
+Show changes between commits, commit and working tree, etc
+
+git-fetch[1]
+Download objects and refs from another repository
+
+git-format-patch[1]
+Prepare patches for e-mail submission
+
+git-gc[1]
+Cleanup unnecessary files and optimize the local repository
+
+git-grep[1]
+Print lines matching a pattern
+
+git-gui[1]
+A portable graphical interface to Git
+
+git-init[1]
+Create an empty Git repository or reinitialize an existing one
+
+git-log[1]
+Show commit logs
+
+git-maintenance[1]
+Run tasks to optimize Git repository data
+
+git-merge[1]
+Join two or more development histories together
+
+git-mv[1]
+Move or rename a file, a directory, or a symlink
+
+git-notes[1]
+Add or inspect object notes
+
+git-pull[1]
+Fetch from and integrate with another repository or a local branch
+
+git-push[1]
+Update remote refs along with associated objects
+
+git-range-diff[1]
+Compare two commit ranges (e.g. two versions of a branch)
+
+git-rebase[1]
+Reapply commits on top of another base tip
+
+git-reset[1]
+Reset current HEAD to the specified state
+
+git-restore[1]
+Restore working tree files
+
+git-revert[1]
+Revert some existing commits
+
+git-rm[1]
+Remove files from the working tree and from the index
+
+git-shortlog[1]
+Summarize git log output
+
+git-show[1]
+Show various types of objects
+
+git-sparse-checkout[1]
+Reduce your working tree to a subset of tracked files
+
+git-stash[1]
+Stash the changes in a dirty working directory away
+
+git-status[1]
+Show the working tree status
+
+git-submodule[1]
+Initialize, update or inspect submodules
+
+git-switch[1]
+Switch branches
+
+git-tag[1]
+Create, list, delete or verify a tag object signed with GPG
+
+git-worktree[1]
+Manage multiple working trees
+
+gitk[1]
+The Git repository browser
+
+scalar[1]
+A tool for managing large Git repositories
