@@ -1,6 +1,4 @@
 GIT COMMANDS
-We divide Git into high level ("porcelain") commands and low level ("plumbing") commands.
-
 High-level commands (porcelain)
 We separate the porcelain commands into the main commands and some ancillary user utilities.
 
